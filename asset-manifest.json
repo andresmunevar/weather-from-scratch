@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weather-from-scratch/static/css/main.8c8b27cf.chunk.css",
+    "main.css": "/weather-from-scratch/static/css/main.663405c6.chunk.css",
     "main.js": "/weather-from-scratch/static/js/main.7cdfd942.chunk.js",
     "main.js.map": "/weather-from-scratch/static/js/main.7cdfd942.chunk.js.map",
     "runtime-main.js": "/weather-from-scratch/static/js/runtime-main.9331b618.js",
@@ -10,14 +10,14 @@
     "static/js/3.d269fe66.chunk.js": "/weather-from-scratch/static/js/3.d269fe66.chunk.js",
     "static/js/3.d269fe66.chunk.js.map": "/weather-from-scratch/static/js/3.d269fe66.chunk.js.map",
     "index.html": "/weather-from-scratch/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/weather-from-scratch/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.663405c6.chunk.css.map": "/weather-from-scratch/static/css/main.663405c6.chunk.css.map",
     "static/js/2.cf278961.chunk.js.LICENSE.txt": "/weather-from-scratch/static/js/2.cf278961.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/weather-from-scratch/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9331b618.js",
     "static/js/2.cf278961.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
+    "static/css/main.663405c6.chunk.css",
     "static/js/main.7cdfd942.chunk.js"
   ]
 }
