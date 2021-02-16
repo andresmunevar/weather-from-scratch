@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/weather-from-scratch/static/css/main.663405c6.chunk.css",
-    "main.js": "/weather-from-scratch/static/js/main.d613555d.chunk.js",
-    "main.js.map": "/weather-from-scratch/static/js/main.d613555d.chunk.js.map",
-    "runtime-main.js": "/weather-from-scratch/static/js/runtime-main.9331b618.js",
-    "runtime-main.js.map": "/weather-from-scratch/static/js/runtime-main.9331b618.js.map",
-    "static/js/2.cf278961.chunk.js": "/weather-from-scratch/static/js/2.cf278961.chunk.js",
-    "static/js/2.cf278961.chunk.js.map": "/weather-from-scratch/static/js/2.cf278961.chunk.js.map",
-    "static/js/3.d269fe66.chunk.js": "/weather-from-scratch/static/js/3.d269fe66.chunk.js",
-    "static/js/3.d269fe66.chunk.js.map": "/weather-from-scratch/static/js/3.d269fe66.chunk.js.map",
+    "main.css": "/weather-from-scratch/static/css/main.61bee83e.chunk.css",
+    "main.js": "/weather-from-scratch/static/js/main.d66a4f85.chunk.js",
+    "main.js.map": "/weather-from-scratch/static/js/main.d66a4f85.chunk.js.map",
+    "runtime-main.js": "/weather-from-scratch/static/js/runtime-main.ea143d83.js",
+    "runtime-main.js.map": "/weather-from-scratch/static/js/runtime-main.ea143d83.js.map",
+    "static/js/2.873d8cd5.chunk.js": "/weather-from-scratch/static/js/2.873d8cd5.chunk.js",
+    "static/js/2.873d8cd5.chunk.js.map": "/weather-from-scratch/static/js/2.873d8cd5.chunk.js.map",
+    "static/js/3.b3e034d0.chunk.js": "/weather-from-scratch/static/js/3.b3e034d0.chunk.js",
+    "static/js/3.b3e034d0.chunk.js.map": "/weather-from-scratch/static/js/3.b3e034d0.chunk.js.map",
     "index.html": "/weather-from-scratch/index.html",
-    "static/css/main.663405c6.chunk.css.map": "/weather-from-scratch/static/css/main.663405c6.chunk.css.map",
-    "static/js/2.cf278961.chunk.js.LICENSE.txt": "/weather-from-scratch/static/js/2.cf278961.chunk.js.LICENSE.txt",
+    "static/css/main.61bee83e.chunk.css.map": "/weather-from-scratch/static/css/main.61bee83e.chunk.css.map",
+    "static/js/2.873d8cd5.chunk.js.LICENSE.txt": "/weather-from-scratch/static/js/2.873d8cd5.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/weather-from-scratch/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9331b618.js",
-    "static/js/2.cf278961.chunk.js",
-    "static/css/main.663405c6.chunk.css",
-    "static/js/main.d613555d.chunk.js"
+    "static/js/runtime-main.ea143d83.js",
+    "static/js/2.873d8cd5.chunk.js",
+    "static/css/main.61bee83e.chunk.css",
+    "static/js/main.d66a4f85.chunk.js"
   ]
 }
